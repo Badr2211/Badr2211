@@ -7,7 +7,7 @@
 ***
 ### 🚀 What I'm up to:
 
-- 🔭 I’m currently working on [Project A](link-to-project-a) and [Project B](link-to-project-b), where I apply my skills in [Programming Language/Technology].
+- 🔭 I’m currently working on [Project A](https://github.com/Badr2211/1000_ML_Engineers_Initiative), where I apply my skills in Data_science and ML and CV .
 - 📚 I'm actively learning and sharing my knowledge through [my linked in](https://www.linkedin.com/in/mohamed-badr-301378248/)
 ***
 ### 🤖 Tech Stack:
